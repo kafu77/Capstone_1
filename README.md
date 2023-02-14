@@ -17,12 +17,11 @@ The Modeling phase is about train and test the model to select the best performe
 Even though both models have smaller error than the baseline model, the Ridge model aslo has much smaller error than Linear regression model. It also much faster than Linear Regression model. 
 
 # Work will add on the final capstone: 
-
-Apply feature Engineering to tranform a catogerical data into numerical
-Add Gradient Base Regressor and Random Forest Regressor model
-Comparing result of new model and previous models
-Apply a TranformTarget model and choose the best
-Recommend the best model
+1. Apply feature Engineering to tranform a catogerical data into numerical
+2. Add Gradient Base Regressor and Random Forest Regressor model
+3. Comparing result of new model and previous models
+4. Apply a TranformTarget model and choose the best
+5. Recommend the best model
 
 
 
